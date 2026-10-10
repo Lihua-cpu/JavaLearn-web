@@ -1,0 +1,1 @@
+var e={SHORT:`500px`,MEDIUM:`1000px`,LONG:`1500px`,XL:`2000px`,XXL:`2500px`},t=(t,n=e.XL)=>Object.fromEntries(t.map(e=>[e,n])),n={unlockVersion:`v1`,forceLock:!1,code:`8888`,qrCodeUrl:`/images/qrcode-javalearn.jpg`,protectedPaths:{...t([])},protectedPrefixes:{...t([])}};export{e as n,n as t};
