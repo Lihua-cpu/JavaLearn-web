@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://www.yimengli.cn/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://www.yimengli.cn/JavaLearn-web/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://www.yimengli.cn/</id>
+  <id>https://www.yimengli.cn/JavaLearn-web/</id>
   <title>LeonLearn Java</title>
   <subtitle>LeonLearn 是一份面向后端开发/后端面试的学习与复习指南，覆盖 Java、数据库/MySQL、Redis、分布式、高并发、高可用、系统设计等核心知识。</subtitle>
-  <icon>https://www.yimengli.cn/favicon.ico</icon>
-  <updated>2026-10-10T14:15:35.061Z</updated>
+  <icon>https://www.yimengli.cn/JavaLearn-web/favicon.ico</icon>
+  <updated>2026-10-10T15:33:46.688Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://www.yimengli.cn/atom.xml"/>
-  <link rel="alternate" href="https://www.yimengli.cn/"/>
+  <link rel="self" href="https://www.yimengli.cn/JavaLearn-web/atom.xml"/>
+  <link rel="alternate" href="https://www.yimengli.cn/JavaLearn-web/"/>
   <entry>
     <title type="text">面试资料</title>
-    <id>https://www.yimengli.cn/interview/</id>
-    <link href="https://www.yimengli.cn/interview/"/>
-    <updated>2026-10-10T14:15:35.062Z</updated>
+    <id>https://www.yimengli.cn/JavaLearn-web/interview/</id>
+    <link href="https://www.yimengli.cn/JavaLearn-web/interview/"/>
+    <updated>2026-10-10T14:41:34.000Z</updated>
     <summary type="html"><![CDATA[<a class="article-promo-image" href="/leonLearn/me">
   <!-- <img
     src="https://www.yimengli.cn/prod-api/profile/upload/2026/10/10/22f22a42-5573-4977-bd88-8dab68f38760.png"
@@ -53,104 +53,106 @@
 <h1>📖 面试题库</h1>
 <h2>🌱 Java 基础</h2>
 <ul>
-<li><a href="/java/basis/java-basic-questions-01.html#%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86" target="_blank">Java 概述</a></li>
-<li><a href="/java/basis/java-basic-questions-01.html#%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B" target="_blank">Java 数据类型</a></li>
-<li><a href="/java/basis/java-basic-questions-02.html#%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80" target="_blank">Java 面向对象</a></li>
-<li><a href="/java/collection/java-collection-questions-01.html" target="_blank">Java 集合</a></li>
-<li><a href="/java/io/" target="_blank">Java IO</a></li>
-<li><a href="/java/basis/java-basic-questions-03.html#%E5%BC%82%E5%B8%B8" target="_blank">Java 异常</a></li>
-<li><a href="/java/basis/syntactic-sugar.html#%E5%86%85%E9%83%A8%E7%B1%BB" target="_blank">Java 内部类</a></li>
-<li><a href="/java/basis/java-basic-questions-03.html#%E6%B3%9B%E5%9E%8B" target="_blank">Java 枚举和泛型</a></li>
-<li><a href="/java/basis/java-basic-questions-01.html#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95" target="_blank">Java SE 语法</a></li>
+<li><a href="/JavaLearn-web/java/basis/java-basic-questions-01.html#%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%B8%B8%E8%AF%86" target="_blank">Java 概述</a></li>
+<li><a href="/JavaLearn-web/java/basis/java-basic-questions-01.html#%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B" target="_blank">Java 数据类型</a></li>
+<li><a href="/JavaLearn-web/java/basis/java-basic-questions-02.html#%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%9F%BA%E7%A1%80" target="_blank">Java 面向对象</a></li>
+<li><a href="/JavaLearn-web/java/collection/java-collection-questions-01.html" target="_blank">Java 集合</a></li>
+<li><a href="/JavaLearn-web/java/io/" target="_blank">Java IO</a></li>
+<li><a href="/JavaLearn-web/java/basis/java-basic-questions-03.html#%E5%BC%82%E5%B8%B8" target="_blank">Java 异常</a></li>
+<li><a href="/JavaLearn-web/java/basis/syntactic-sugar.html#%E5%86%85%E9%83%A8%E7%B1%BB" target="_blank">Java 内部类</a></li>
+<li><a href="/JavaLearn-web/java/basis/java-basic-questions-03.html#%E6%B3%9B%E5%9E%8B" target="_blank">Java 枚举和泛型</a></li>
+<li><a href="/JavaLearn-web/java/basis/java-basic-questions-01.html#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95" target="_blank">Java SE 语法</a></li>
 </ul>
 <h2>☕ Java 高级</h2>
 <ul>
-<li><a href="/java/basis/java-basic-questions-03.html#%E5%8F%8D%E5%B0%84" target="_blank">Java 反射</a></li>
-<li><a href="/java/concurrent/java-concurrent-questions-01.html" target="_blank">Java 并发编程</a></li>
-<li><a href="/java/jvm/" target="_blank">JVM 核心知识</a></li>
-<li><a href="/java/new-features/" target="_blank">Java 新特性</a></li>
+<li><a href="/JavaLearn-web/java/basis/java-basic-questions-03.html#%E5%8F%8D%E5%B0%84" target="_blank">Java 反射</a></li>
+<li><a href="/JavaLearn-web/java/concurrent/java-concurrent-questions-01.html" target="_blank">Java 并发编程</a></li>
+<li><a href="/JavaLearn-web/java/jvm/" target="_blank">JVM 核心知识</a></li>
+<li><a href="/JavaLearn-web/java/new-features/" target="_blank">Java 新特性</a></li>
 </ul>
 <h2>💻 计算机基础</h2>
 <ul>
-<li><a href="/cs-basics/operating-system/operating-system-basic-questions-01.html" target="_blank">操作系统常见面试题</a></li>
-<li><a href="/cs-basics/network/other-network-questions.html" target="_blank">计算机网络常见面试题</a></li>
-<li><a href="/cs-basics/data-structure/" target="_blank">数据结构</a></li>
-<li><a href="/cs-basics/algorithms/" target="_blank">算法</a></li>
+<li><a href="/JavaLearn-web/cs-basics/operating-system/operating-system-basic-questions-01.html" target="_blank">操作系统常见面试题</a></li>
+<li><a href="/JavaLearn-web/cs-basics/network/other-network-questions.html" target="_blank">计算机网络常见面试题</a></li>
+<li><a href="/JavaLearn-web/cs-basics/data-structure/" target="_blank">数据结构</a></li>
+<li><a href="/JavaLearn-web/cs-basics/algorithms/" target="_blank">算法</a></li>
 </ul>
 <h2>🗄️ 数据库</h2>
 <ul>
-<li><a href="/database/mysql/mysql-questions-01.html" target="_blank">MySQL 常见面试题</a></li>
-<li><a href="/database/mysql/mysql-index.html" target="_blank">MySQL 索引详解</a></li>
-<li><a href="/database/redis/redis-questions-01.html" target="_blank">Redis 常见面试题（上）</a></li>
-<li><a href="/database/redis/redis-questions-02.html" target="_blank">Redis 常见面试题（下）</a></li>
-<li><a href="/database/elasticsearch/elasticsearch-questions-01.html" target="_blank">Elasticsearch 面试题</a></li>
+<li><a href="/JavaLearn-web/database/mysql/mysql-questions-01.html" target="_blank">MySQL 常见面试题</a></li>
+<li><a href="/JavaLearn-web/database/mysql/mysql-index.html" target="_blank">MySQL 索引详解</a></li>
+<li><a href="/JavaLearn-web/database/redis/redis-questions-01.html" target="_blank">Redis 常见面试题（上）</a></li>
+<li><a href="/JavaLearn-web/database/redis/redis-questions-02.html" target="_blank">Redis 常见面试题（下）</a></li>
+<li><a href="/JavaLearn-web/database/elasticsearch/elasticsearch-questions-01.html" target="_blank">Elasticsearch 面试题</a></li>
 </ul>
 <h2>🍃 Java 框架</h2>
 <ul>
-<li><a href="/system-design/framework/spring/spring-knowledge-and-questions-summary.html" target="_blank">Spring 常见知识点与面试题</a></li>
-<li><a href="/system-design/framework/spring/springboot-knowledge-and-questions-summary.html" target="_blank">Spring Boot 常见知识点与面试题</a></li>
-<li><a href="/system-design/framework/spring/spring-transaction.html" target="_blank">Spring 事务详解</a></li>
-<li><a href="/system-design/framework/mybatis/mybatis-interview.html" target="_blank">MyBatis 面试题</a></li>
-<li><a href="/system-design/framework/netty.html" target="_blank">Netty 入门</a></li>
+<li><a href="/JavaLearn-web/system-design/framework/spring/spring-knowledge-and-questions-summary.html" target="_blank">Spring 常见知识点与面试题</a></li>
+<li><a href="/JavaLearn-web/system-design/framework/spring/springboot-knowledge-and-questions-summary.html" target="_blank">Spring Boot 常见知识点与面试题</a></li>
+<li><a href="/JavaLearn-web/system-design/framework/spring/spring-transaction.html" target="_blank">Spring 事务详解</a></li>
+<li><a href="/JavaLearn-web/system-design/framework/mybatis/mybatis-interview.html" target="_blank">MyBatis 面试题</a></li>
+<li><a href="/JavaLearn-web/system-design/framework/netty.html" target="_blank">Netty 入门</a></li>
 </ul>
 <h2>🌐 分布式</h2>
 <ul>
-<li><a href="/distributed-system/distributed-system-interview-questions.html" target="_blank">分布式系统常见面试题</a></li>
-<li><a href="/distributed-system/distributed-lock.html" target="_blank">分布式锁</a></li>
-<li><a href="/distributed-system/distributed-transaction.html" target="_blank">分布式事务</a></li>
-<li><a href="/distributed-system/distributed-id.html" target="_blank">分布式 ID</a></li>
-<li><a href="/distributed-system/rpc/dubbo.html" target="_blank">RPC 与 Dubbo</a></li>
-<li><a href="/distributed-system/distributed-process-coordination/zookeeper/zookeeper-intro.html" target="_blank">ZooKeeper 入门</a></li>
+<li><a href="/JavaLearn-web/distributed-system/distributed-system-interview-questions.html" target="_blank">分布式系统常见面试题</a></li>
+<li><a href="/JavaLearn-web/distributed-system/distributed-lock.html" target="_blank">分布式锁</a></li>
+<li><a href="/JavaLearn-web/distributed-system/distributed-transaction.html" target="_blank">分布式事务</a></li>
+<li><a href="/JavaLearn-web/distributed-system/distributed-id.html" target="_blank">分布式 ID</a></li>
+<li><a href="/JavaLearn-web/distributed-system/rpc/dubbo.html" target="_blank">RPC 与 Dubbo</a></li>
+<li><a href="/JavaLearn-web/distributed-system/distributed-process-coordination/zookeeper/zookeeper-intro.html" target="_blank">ZooKeeper 入门</a></li>
 </ul>
 <h2>🔍 源码剖析</h2>
 <ul>
-<li><a href="/java/collection/hashmap-source-code.html" target="_blank">HashMap 源码解析</a></li>
-<li><a href="/java/collection/arraylist-source-code.html" target="_blank">ArrayList 源码解析</a></li>
-<li><a href="/java/collection/concurrent-hash-map-source-code.html" target="_blank">ConcurrentHashMap 源码解析</a></li>
-<li><a href="/java/concurrent/java-thread-pool-summary.html" target="_blank">线程池原理与源码</a></li>
-<li><a href="/system-design/framework/spring/spring-boot-auto-assembly-principles.html" target="_blank">Spring Boot 自动装配原理</a></li>
+<li><a href="/JavaLearn-web/java/collection/hashmap-source-code.html" target="_blank">HashMap 源码解析</a></li>
+<li><a href="/JavaLearn-web/java/collection/arraylist-source-code.html" target="_blank">ArrayList 源码解析</a></li>
+<li><a href="/JavaLearn-web/java/collection/concurrent-hash-map-source-code.html" target="_blank">ConcurrentHashMap 源码解析</a></li>
+<li><a href="/JavaLearn-web/java/concurrent/java-thread-pool-summary.html" target="_blank">线程池原理与源码</a></li>
+<li><a href="/JavaLearn-web/system-design/framework/spring/spring-boot-auto-assembly-principles.html" target="_blank">Spring Boot 自动装配原理</a></li>
 </ul>
 <h2>🏗️ 架构设计</h2>
 <ul>
-<li><a href="/system-design/system-design-questions.html" target="_blank">系统设计与架构面试题</a></li>
-<li><a href="/system-design/design-pattern.html" target="_blank">设计模式常见面试题</a></li>
-<li><a href="/system-design/security/design-of-authority-system.html" target="_blank">权限系统设计</a></li>
-<li><a href="/high-performance/" target="_blank">高性能</a></li>
-<li><a href="/high-availability/" target="_blank">高可用</a></li>
+<li><a href="/JavaLearn-web/system-design/system-design-questions.html" target="_blank">系统设计与架构面试题</a></li>
+<li><a href="/JavaLearn-web/system-design/design-pattern.html" target="_blank">设计模式常见面试题</a></li>
+<li><a href="/JavaLearn-web/system-design/security/design-of-authority-system.html" target="_blank">权限系统设计</a></li>
+<li><a href="/JavaLearn-web/high-performance/" target="_blank">高性能</a></li>
+<li><a href="/JavaLearn-web/high-availability/" target="_blank">高可用</a></li>
 </ul>
 <h2>💼 场景题</h2>
 <ul>
-<li><a href="/system-design/web-real-time-message-push.html" target="_blank">Web 实时消息推送</a></li>
-<li><a href="/system-design/schedule-task.html" target="_blank">定时任务设计与实现</a></li>
-<li><a href="/system-design/security/sentive-words-filter.html" target="_blank">敏感词过滤系统</a></li>
-<li><a href="/system-design/security/data-desensitization.html" target="_blank">数据脱敏</a></li>
+<li><a href="/JavaLearn-web/system-design/web-real-time-message-push.html" target="_blank">Web 实时消息推送</a></li>
+<li><a href="/JavaLearn-web/system-design/schedule-task.html" target="_blank">定时任务设计与实现</a></li>
+<li><a href="/JavaLearn-web/system-design/security/sentive-words-filter.html" target="_blank">敏感词过滤系统</a></li>
+<li><a href="/JavaLearn-web/system-design/security/data-desensitization.html" target="_blank">数据脱敏</a></li>
 </ul>
 <h2>🎯 面试技巧</h2>
 <ul>
-<li><a href="/interview-preparation/teach-you-how-to-prepare-for-the-interview-hand-in-hand.html" target="_blank">手把手教你准备面试</a></li>
-<li><a href="/interview-preparation/resume-guide.html" target="_blank">简历优化指南</a></li>
-<li><a href="/interview-preparation/key-points-of-interview.html" target="_blank">面试要点总结</a></li>
-<li><a href="/interview-preparation/project-experience-guide.html" target="_blank">项目经验怎么准备</a></li>
-<li><a href="/interview-preparation/how-to-handle-interview-nerves.html" target="_blank">如何缓解面试紧张</a></li>
+<li><a href="/JavaLearn-web/interview-preparation/teach-you-how-to-prepare-for-the-interview-hand-in-hand.html" target="_blank">手把手教你准备面试</a></li>
+<li><a href="/JavaLearn-web/interview-preparation/resume-guide.html" target="_blank">简历优化指南</a></li>
+<li><a href="/JavaLearn-web/interview-preparation/key-points-of-interview.html" target="_blank">面试要点总结</a></li>
+<li><a href="/JavaLearn-web/interview-preparation/project-experience-guide.html" target="_blank">项目经验怎么准备</a></li>
+<li><a href="/JavaLearn-web/interview-preparation/how-to-handle-interview-nerves.html" target="_blank">如何缓解面试紧张</a></li>
 </ul>
 <h2>写在最后</h2>
 <p>如果内容对你有帮助的话，欢迎顺手给 LeonLearn 点一个免费的 Star 支持一下：<a href="https://github.com/Lihua-cpu" target="_blank" rel="noopener noreferrer">GitHub</a> | <a href="https://gitee.com/Lihua-cpu" target="_blank" rel="noopener noreferrer">Gitee</a>。</p>
 <p>LeonLearn 开始维护，你的 Star、反馈和 PR，都是这个项目继续更新的动力。</p>
 <p>如果你正在准备前端/后端/AI 应用开发面试，这个文档提供了相关的面试资料和练习题。另外需要前端资料也可以关注另外一个文档LeonLearn前端部分。</p>
 ]]></content>
+    <published>2026-10-10T14:41:34.000Z</published>
   </entry>
   <entry>
     <title type="text"></title>
-    <id>https://www.yimengli.cn/interview/hr-questions.html</id>
-    <link href="https://www.yimengli.cn/interview/hr-questions.html"/>
-    <updated>2026-10-10T14:15:35.066Z</updated>
+    <id>https://www.yimengli.cn/JavaLearn-web/interview/hr-questions.html</id>
+    <link href="https://www.yimengli.cn/JavaLearn-web/interview/hr-questions.html"/>
+    <updated>2026-10-10T14:41:34.000Z</updated>
     <summary type="text">结合 LeonLearn 后端部分的知识体系梳理 Interview / Hr Questions.Html 的核心概念、实践方法、常见问题和高频面试考点，覆盖原理分析、使用场景、方案对比与经验总结，适合后端开发者系统学习、面试复习、快速定位重点内容和查缺补漏。</summary>
+    <published>2026-10-10T14:41:34.000Z</published>
   </entry>
   <entry>
     <title type="text">2、最佳简历--JAVA 程序员的基本技能和项目经验如何写</title>
-    <id>https://www.yimengli.cn/interview/resume.html</id>
-    <link href="https://www.yimengli.cn/interview/resume.html"/>
-    <updated>2026-10-10T14:15:35.067Z</updated>
+    <id>https://www.yimengli.cn/JavaLearn-web/interview/resume.html</id>
+    <link href="https://www.yimengli.cn/JavaLearn-web/interview/resume.html"/>
+    <updated>2026-10-10T14:41:34.000Z</updated>
     <summary type="html"><![CDATA[<h2><a href="#%E4%B8%80%E3%80%81%E9%9D%A2%E9%9C%B8-%E9%9D%A2%E6%B8%A3">一、“面霸”&amp;“面渣”</a></h2>
 <p>有的人，面试 30 家都没有 offer，有的人，面试 3 家能拿到 3 个 offer。为什么会有如此大的区别呢？</p>
 <p>上述都是根据简历部分来看哈，防止</p>
@@ -346,22 +348,24 @@
 <p>本系统是 X 委托 Y 开发的用于 Z 的系统，系统包括 A、B、C、D 等模块。系统使用了 Java 企业级开发的开源框架 E 以及前端技术 F。表示层运用了 G 架构，使用 H 作为视图 I 作为控制器并实现了 REST 风格的请求；业务逻辑层运用了 J 模式，并通过 K 实现事务、日志和安全性等功能，通过 L 实现缓存服务；持久层使用了 M 封装 CRUD 操作，底层使用 N 实现数据存取。整个项目采用了 P 开发模型。</p>
 <p><strong>完美的项目介绍是你在面试中的终极必杀技</strong></p>
 ]]></content>
+    <published>2026-10-10T14:41:34.000Z</published>
   </entry>
   <entry>
     <title type="text"></title>
-    <id>https://www.yimengli.cn/leonLearn/me.html</id>
-    <link href="https://www.yimengli.cn/leonLearn/me.html"/>
-    <updated>2026-10-10T14:15:35.083Z</updated>
+    <id>https://www.yimengli.cn/JavaLearn-web/leonLearn/me.html</id>
+    <link href="https://www.yimengli.cn/JavaLearn-web/leonLearn/me.html"/>
+    <updated>2026-10-10T14:41:34.000Z</updated>
     <summary type="html"><![CDATA[<p>我就是我</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>我就是我</p>
 ]]></content>
+    <published>2026-10-10T14:41:34.000Z</published>
   </entry>
   <entry>
     <title type="text">Java学习手册</title>
-    <id>https://www.yimengli.cn/java/</id>
-    <link href="https://www.yimengli.cn/java/"/>
-    <updated>2026-10-10T14:15:35.083Z</updated>
+    <id>https://www.yimengli.cn/JavaLearn-web/java/</id>
+    <link href="https://www.yimengli.cn/JavaLearn-web/java/"/>
+    <updated>2026-10-10T14:41:34.000Z</updated>
     <summary type="html"><![CDATA[<a class="article-promo-image" href="/leonLearn/me">
   <!-- <img
     src="https://www.yimengli.cn/prod-api/profile/upload/2026/10/10/22f22a42-5573-4977-bd88-8dab68f38760.png"
@@ -527,19 +531,22 @@
   <span><span class="learning-tip-label">学习建议：</span>建议按照 Java 基础 → 数据库 → 框架 → 微服务 → 分布式的顺序循序渐进。</span>
 </div>
 ]]></content>
+    <published>2026-10-10T14:41:34.000Z</published>
   </entry>
   <entry>
     <title type="text"></title>
-    <id>https://www.yimengli.cn/java/start/email.html</id>
-    <link href="https://www.yimengli.cn/java/start/email.html"/>
-    <updated>2026-10-10T14:15:35.085Z</updated>
+    <id>https://www.yimengli.cn/JavaLearn-web/java/start/email.html</id>
+    <link href="https://www.yimengli.cn/JavaLearn-web/java/start/email.html"/>
+    <updated>2026-10-10T14:41:34.000Z</updated>
     <summary type="text">结合 LeonLearn 后端部分的知识体系梳理 Java / Start / Email.Html 的核心概念、实践方法、常见问题和高频面试考点，覆盖原理分析、使用场景、方案对比与经验总结，适合后端开发者系统学习、面试复习、快速定位重点内容和查缺补漏。</summary>
+    <published>2026-10-10T14:41:34.000Z</published>
   </entry>
   <entry>
     <title type="text"></title>
-    <id>https://www.yimengli.cn/java/start/path.html</id>
-    <link href="https://www.yimengli.cn/java/start/path.html"/>
-    <updated>2026-10-10T14:15:35.085Z</updated>
+    <id>https://www.yimengli.cn/JavaLearn-web/java/start/path.html</id>
+    <link href="https://www.yimengli.cn/JavaLearn-web/java/start/path.html"/>
+    <updated>2026-10-10T14:41:34.000Z</updated>
     <summary type="text">结合 LeonLearn 后端部分的知识体系梳理 Java / Start / Path.Html 的核心概念、实践方法、常见问题和高频面试考点，覆盖原理分析、使用场景、方案对比与经验总结，适合后端开发者系统学习、面试复习、快速定位重点内容和查缺补漏。</summary>
+    <published>2026-10-10T14:41:34.000Z</published>
   </entry>
 </feed>

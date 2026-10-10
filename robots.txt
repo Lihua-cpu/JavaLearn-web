@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://www.yimengli.cn/sitemap.xml
+Sitemap: https://www.yimengli.cn/JavaLearn-web/sitemap.xml
